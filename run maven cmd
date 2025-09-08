@@ -1,0 +1,1 @@
+mvn clean test -Dbase.uri=https://glbg.servergi.com:8072/SIMWEBGLB/Employee/Leave%20Apply
